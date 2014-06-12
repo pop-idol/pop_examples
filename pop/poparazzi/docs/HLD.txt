@@ -1,0 +1,10 @@
+Poparazzi
+
+The purpose of the tool is:
+
+make it easy to move subroutines from one file to another
+make it easy to order the subroutines in a file
+make it easy to convert globals to args_href format
+make it easy to add POD headers to subroutines
+templatize a sparce application
+
